@@ -7,3 +7,16 @@
     
     margin-right: auto;
 }
+h2{
+   text-align: center; 
+}
+h1{
+    text-align: center; 
+ }
+ p{
+    text-align: center; 
+ }
+ figcaption.figcap{
+    text-align: center;  
+ }
+ 
